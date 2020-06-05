@@ -1,4 +1,4 @@
-* 建立 ktor 專案
+* [建立 ktor 專案](build.md)
 * Hello World
 * 建立 code style 檢查
 * 建立新 route
